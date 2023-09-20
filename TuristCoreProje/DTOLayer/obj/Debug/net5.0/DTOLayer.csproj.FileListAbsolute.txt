@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\bin\Debug\net5.0\DTOLayer.deps.json
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\bin\Debug\net5.0\DTOLayer.dll
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\bin\Debug\net5.0\DTOLayer.pdb
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.AssemblyInfo.cs
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.dll
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\refint\DTOLayer.dll
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\DTOLayer.pdb
+C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\DTOLayer\obj\Debug\net5.0\ref\DTOLayer.dll

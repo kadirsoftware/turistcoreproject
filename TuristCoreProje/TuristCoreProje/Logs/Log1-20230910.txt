@@ -1,0 +1,5 @@
+2023-09-10T01:47:03.8744412+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-09-10T01:47:03.8896547+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-09-10T01:47:03.8906647+03:00  [INF] Content root path: "C:\Users\asus\Desktop\kadSoftware\AspNETCore_MVC\TuristCoreProje\TuristCoreProje" (b5d60022)
+2023-09-10T01:47:11.1251487+03:00 80000004-000e-ff00-b63f-84710c7967bb [WRN] Invalid password for user. (6d284782)
+2023-09-10T01:47:11.1282139+03:00 80000004-000e-ff00-b63f-84710c7967bb [WRN] User failed to provide the correct password. (a25e98da)
